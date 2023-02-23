@@ -17,6 +17,9 @@
       },
       "api": {
         "reactaws": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
